@@ -1,5 +1,5 @@
 /**
- * dom-parser
+ * doparser
  *
  * Browser compatible DOM parser.
  */

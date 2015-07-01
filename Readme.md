@@ -1,5 +1,5 @@
 
-# dom-parser
+# doparser
 
 Browser compatible document parser. Inspired by [rails/turbolinks](https://github.com/rails/turbolinks).
 
@@ -7,12 +7,12 @@ Browser compatible document parser. Inspired by [rails/turbolinks](https://githu
 
 Install with [component(1)](http://component.io):
 
-    $ component install yuehu/dom-parser
+    $ component install dopm/doparser
 
 ## API
 
 ```js
-var dom = require('dom-parser')(html)
+var dom = require('doparser')(html)
 ```
 
 ## License
